@@ -36,25 +36,25 @@ To make the tooltip become interative, we need to change the backend to matplotl
 
 
 ## Refrences
-- for the codes
+### for the codes
 
-https://stackoverflow.com/questions/47242637/why-doesnt-imshow-show-pixel-values-when-i-hover-over-it
-https://stackoverflow.com/questions/27704490/interactive-pixel-information-of-an-image-in-python
-https://github.com/bloomberg/bqplot
-https://matplotlib.org/examples/color/colormaps_reference.html
-http://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html?highlight=PLAY
+- https://stackoverflow.com/questions/47242637/why-doesnt-imshow-show-pixel-values-when-i-hover-over-it
+- https://stackoverflow.com/questions/27704490/interactive-pixel-information-of-an-image-in-python
+- https://github.com/bloomberg/bqplot
+- https://matplotlib.org/examples/color/colormaps_reference.html
+- http://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html?highlight=PLAY
 
-- for the infographic
+### for the infographic
 
-https://history.nasa.gov/40thann/define.htm
-http://www.nuforc.org/index.html
-http://www.thepeoplehistory.com/1990.html
-https://www.onthisday.com/date/1990
-https://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0
-https://www.theatlantic.com/technology/archive/2014/06/the-hard-data-on-ufo-sightings-its-mostly-drunk-people-in-the-west/373645/
-http://www.imdb.com/list/ls000095891/
-https://auxiliarymemory.com/2013/05/02/the-defining-science-fiction-books-of-the-1990s/
-http://bestsciencefictionbooks.com/blog/10-essential-sf-books-of-the-1990s/
+- https://history.nasa.gov/40thann/define.htm
+- http://www.nuforc.org/index.html
+- http://www.thepeoplehistory.com/1990.html
+- https://www.onthisday.com/date/1990
+- https://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0
+- https://www.theatlantic.com/technology/archive/2014/06/the-hard-data-on-ufo-sightings-its-mostly-drunk-people-in-the-west/373645/
+- http://www.imdb.com/list/ls000095891/
+- https://auxiliarymemory.com/2013/05/02/the-defining-science-fiction-books-of-the-1990s/
+- http://bestsciencefictionbooks.com/blog/10-essential-sf-books-of-the-1990s/
 
 
 ## Contributions
