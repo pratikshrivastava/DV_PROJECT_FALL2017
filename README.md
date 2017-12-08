@@ -15,9 +15,11 @@ Pratik Shrivastava, Thuong Phan, Yi-Yun Cheng (Jessica), Yuejun Wu (Amber)
 ## Our Approach:
 ### The use of bqplot library
 - Strength
+
 The bqplot gave us a straightforward and easy way to implement code, specifically, the interactive part between the different bqplot elements (such as map and line plot) can be incoprated and integrated with ease. In our approach, we also implementend ipywidgets to provide more appealing visual cues. 
 
 - Weakness/ Problems we encounter
+
 The interactivity required additional callback functions - which may lead to potentional(unknown) errors. The interlinking parameters of multiple functions made it harder for us to detect the errors. 
 The plotting of points on the map required additional programming. Originally, using only the USStatesMap.json to plot the points made the plot static and would not change to fit the scale when we adjust or zoom in on the map. A customized json file (thanks to the other group's help) for US state map "TransportableArrMap.json" is required to solve the problem.
 
@@ -25,14 +27,17 @@ The plotting of points on the map required additional programming. Originally, u
 We used the annotate() method in matplotlib to create tooltip, there're also some strengths and weaknesses:
 
 - Strength 
+
 It is flexible, we can add as many data into the tooltip as we want. In addition, we can also customize the shape, color and arrowprops for tooltip. 
 
 - Weakness
+
 To make the tooltip become interative, we need to change the backend to matplotlib nbagg, and also requires additional event handling programming codes. The "event handling" in matplotlib uses mpl_connect() method for "motion_notify_event" and create a separate method for hovering event handling.
 
 
 ## Refrences
 - for the codes
+
 https://stackoverflow.com/questions/47242637/why-doesnt-imshow-show-pixel-values-when-i-hover-over-it
 https://stackoverflow.com/questions/27704490/interactive-pixel-information-of-an-image-in-python
 https://github.com/bloomberg/bqplot
@@ -40,6 +45,7 @@ https://matplotlib.org/examples/color/colormaps_reference.html
 http://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html?highlight=PLAY
 
 - for the infographic
+
 https://history.nasa.gov/40thann/define.htm
 http://www.nuforc.org/index.html
 http://www.thepeoplehistory.com/1990.html
