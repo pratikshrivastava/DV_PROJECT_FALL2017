@@ -59,30 +59,25 @@ To make the tooltip become interative, we need to change the backend to matplotl
 
 ## Contributions
 ### Component 1: 
--    Map & Line plot
+#### Map & Line plot
+- Pratik Shrivastava: code (Map, line plot and time slider); research on bqplot and other packages to do interactive graphics on Map, line plot, time slider; data management; data cleaning; writeup 
+- Yuejun Wu (Amber): data cleaning; code (Map) 
 
-Pratik Shrivastava: code (Map, line plot and time slider); research on bqplot and other packages to do interactive graphics on Map, line plot, time slider; data management; data cleaning; writeup 
+#### Spectrogram
 
-Yuejun Wu (Amber): data cleaning; code (Map) 
-
--    Spectrogram
-
-Thuong Phan: code (data normalization, interactive graphics); data management; data cleaning
-
-Yi-Yun Cheng (Jessica): research on the interactive backends & hovering; markdown notes
+- Thuong Phan: code (data normalization, interactive graphics); data management; data cleaning
+- Yi-Yun Cheng (Jessica): research on the interactive backends & hovering; markdown notes
 
 ### Component 2:
-Pratik Shrivastava
+- Pratik Shrivastava
 
 ### Component 3:
-Thuong Phan: data processing, data normalization, data extraction, basic interaction graphics
-
-Pratik Shrivastava: interactive graphics
+- Thuong Phan: data processing, data normalization, data extraction, basic interaction graphics
+- Pratik Shrivastava: interactive graphics
 
 ### Component 4:
-Yi-Yun Cheng (Jessica): data management; create and design the infographics using Canva; research on UFOs and the meaning of the codes (e.g. reading up the articles from the reference listed above)
-
-Yuejun Wu (Amber): data management; research on the meaning of the codes; help Jessica on infographics design
+- Yi-Yun Cheng (Jessica): data management; create and design the infographics using Canva; research on UFOs and the meaning of the codes (e.g. reading up the articles from the reference listed above)
+- Yuejun Wu (Amber): data management; research on the meaning of the codes; help Jessica on infographics design
 
 ### Final write-up: 
 Everyone
