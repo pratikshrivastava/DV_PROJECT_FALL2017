@@ -1,15 +1,17 @@
 # DV_PROJECT_FALL2017
-## Group name: the PAJTplotters
-## Group members: Pratik Shrivastava, Thuong Phan, Yi-Yun Cheng (Jessica), Yuejun Wu (Amber) 
-
 The Visualization are  developed as part of the UIUC-DV590-FAll2017 project. 
-
 
 ## For execution of the code the below pre-requisite are needed. 
 1. Install [bqplot](https://github.com/bloomberg/bqplot). 
 2. Once installed, copy the TransportableArrMap.json into "Anaconda3\Lib\site-packages\bqplot\map_data"
 3. Download all the datasets in the 'data' folder 
 
+
+## Group name: 
+the PAJTplotters
+
+## Group members: 
+Pratik Shrivastava, Thuong Phan, Yi-Yun Cheng (Jessica), Yuejun Wu (Amber) 
 
 ## Contributions
 ### Component 1: 
