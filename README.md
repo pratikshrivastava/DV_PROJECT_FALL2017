@@ -24,7 +24,7 @@ Yuejun Wu (Amber): data cleaning; code (Map)
 -    Spectrogram
 Thuong Phan: code (data normalization, interactive graphics); data management; data cleaning
 
-Yi-Yun Cheng (Jessica): markdown notes
+Yi-Yun Cheng (Jessica): research on the interactive backends & hovering; markdown notes
 
 ### Component 2:
 Pratik Shrivastava
