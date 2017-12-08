@@ -22,6 +22,7 @@ Pratik Shrivastava: code (Map, line plot and time slider); research on bqplot an
 Yuejun Wu (Amber): data cleaning; code (Map) 
 
 -    Spectrogram
+
 Thuong Phan: code (data normalization, interactive graphics); data management; data cleaning
 
 Yi-Yun Cheng (Jessica): research on the interactive backends & hovering; markdown notes
